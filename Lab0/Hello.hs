@@ -7,16 +7,16 @@ data Level
 
 
 name :: String
-name = "Your Name Here"
+name = "Irina Lee"
 
 level :: Level
 level = Undergraduate
 
 major :: String
-major = "Your Major or Program Here"
+major = "Computer Science"
 
 why :: String
-why = "A sentence about what inspired you to go into CS or why you are taking this class or what you hope to gain from this course."
+why = "I love solving problems."
 
 distance :: Int -> Int -> Int
 distance rate time = rate * time
